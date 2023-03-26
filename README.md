@@ -40,9 +40,9 @@ Corresponding Author
 
 ## Contact information
 Jung Hwa Lee, M.D., Ph.D.
-Tel +82-2-2650-5589 Fax +82-2-2650-5958
+Tel: +82-2-2650-5589
+Fax: +82-2-2650-5958
 Email: jhlee116@ewha.ac.kr, jen116@hanmail.net
-
 
 ## License
 Corresponding Author
