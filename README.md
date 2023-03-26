@@ -31,9 +31,10 @@ These raw datasets are original dataset before data cleaning preprocess. Notice 
     - history (str dtype): notes of patient's disease history
     - symptom1 (str dtype): initial symptoms of a patient at the event
     - symptom (str dtype): symptoms of a patient during hospitalization
-    - bt, pr, spo2, sbp, dbp (str dtype): vital sign values of the patients at that event (We recommend you converting columns' data dtype from str to float or int dtype.)
     - result (str dtype)
     - wbc, crp, bun, cratinine, tbilirubin, procalcitinin (str dtype): blood test results of a patitent (We recommend you converting columns' data dtype from str to float or int dtype.)
+    - bt, pr, spo2, sbp, dbp (str dtype): vital sign values of the patients at that event (We recommend you converting columns' data dtype from str to float or int dtype.)
+    - created (str dtype): time information when an vital sign event of of a patient was created. Its format is 'yyyy"-"mm"-"dd" "hh"-"mm' in `vital.xlsx`.
 
 ## Contributors
 Corresponding Author
